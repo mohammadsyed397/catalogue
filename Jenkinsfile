@@ -57,7 +57,7 @@ pipeline {
             deleteDir()
         }
         success { 
-            echo 'Hello Success'
+            echo 'Hello sucess'
         }
         failure { 
             echo 'Hello Failure'
